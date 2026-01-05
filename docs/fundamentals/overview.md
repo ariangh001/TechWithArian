@@ -100,9 +100,9 @@ Misconfigurations leading to security issues:
 - Vulnerability management
 - Incident response
 
-## Next Steps
+<!-- ## Next Steps
 
 - Learn about [Dependency Management](./dependency-management)
 - Explore [Secure Coding Practices](../best-practices/secure-coding)
 - Understand [Vulnerability Assessment](../vulnerabilities/assessment)
-
+ -->

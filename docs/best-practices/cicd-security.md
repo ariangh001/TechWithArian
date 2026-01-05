@@ -201,10 +201,10 @@ Configure pipelines to fail on high-severity vulnerabilities:
 3. **Remediation**: Fix or mitigate the issue
 4. **Verification**: Confirm fix in pipeline
 5. **Documentation**: Record incident and resolution
-
+<!-- 
 ## Next Steps
 
 - Set up [Dependency Scanning](../tools/dependency-scanning)
 - Learn about [Security Testing](../tools/security-testing)
 - Review [Vulnerability Management](../vulnerabilities/overview)
-
+ -->

@@ -106,9 +106,9 @@ Integrate scanning into your CI/CD pipeline:
 - **safety**: Python dependency vulnerability scanner
 - **bundler-audit**: Ruby gem vulnerability scanner
 
-## Next Steps
+<!-- ## Next Steps
 
 - Set up [Automated Scanning](../tools/dependency-scanning)
 - Learn about [Vulnerability Management](../vulnerabilities/overview)
 - Review [CI/CD Security](../best-practices/cicd-security)
-
+ -->

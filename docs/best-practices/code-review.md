@@ -173,9 +173,9 @@ app.get('/api/user/:id', authenticate, (req, res) => {
 - Test security fixes thoroughly
 - Learn from security feedback
 
-## Next Steps
+<!-- ## Next Steps
 
 - Learn about [Automated Security Testing](../tools/security-testing)
 - Review [Secure Coding Practices](./secure-coding)
 - Understand [Threat Modeling](./threat-modeling)
-
+ -->
