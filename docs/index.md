@@ -35,13 +35,3 @@ This documentation is organized into several key areas:
 4. **Vulnerability Management**: Identifying, assessing, and remediating vulnerabilities
 5. **Compliance & Standards**: Security frameworks and compliance requirements
 
-## Quick Start
-
-If you're new to open source security, we recommend starting with:
-
-1. [Security Fundamentals](./fundamentals/overview) - Learn the basics
-2. [Dependency Scanning](./tools/dependency-scanning) - Set up automated scanning
-3. [Secure Development Practices](./best-practices/secure-coding) - Implement secure coding guidelines
-
-Let's begin your journey to more secure open source software!
-
