@@ -166,8 +166,4 @@ Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'
 - [ ] Security logging implemented
 
 ## Next Steps
-<!-- 
-- Review [Code Review Guidelines](./code-review)
-- Learn about [Security Testing](../tools/security-testing)
-- Understand [Threat Modeling](./threat-modeling)
- -->
+
